@@ -1,4 +1,4 @@
-<!--título-->
+.<!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá 👋, eu sou o Vinicius</h1></summary>
@@ -30,7 +30,7 @@ _"A imaginação é mais importante que o conhecimento, porque o conhecimento é
 ### Outros conhecimentos:
 
 <div align="left">
-    <img align="center" alt="Flask" height="80" width="80" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000">
+    <img align="center" alt="FastAPI" height="80" width="80" src="https://img.icons8.com/?size=100&id=17439&format=png&color=000000">
     <img align="center" alt="GitHub" height="80" width="80" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
     <img align="center" alt="Linux" height="80" width="80" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
 </div>
